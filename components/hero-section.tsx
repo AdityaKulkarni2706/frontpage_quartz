@@ -25,7 +25,7 @@ export function HeroSection() {
 
             <div className="flex flex-col gap-3 sm:flex-row">
               <button className="inline-flex items-center justify-center rounded-full bg-primary px-8 py-3 text-base font-medium text-primary-foreground hover:bg-accent transition-colors">
-                Add to Browser — It's Free
+                Add to Browser — It's Free 
                 <ArrowRightIcon className="ml-2 h-4 w-4" />
               </button>
             </div>
