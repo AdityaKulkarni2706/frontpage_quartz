@@ -13,7 +13,7 @@ export function FinalCTASection() {
           </p>
 
           <button className="mt-8 inline-flex items-center justify-center rounded-full bg-primary px-8 py-3 text-base font-medium text-primary-foreground hover:bg-accent transition-colors">
-            Add Prompt Protekt to Browser Now
+            Add Quartz to Browser Now
             <ArrowRightIcon className="ml-2 h-4 w-4" />
           </button>
         </div>
