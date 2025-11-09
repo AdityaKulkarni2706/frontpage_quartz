@@ -18,7 +18,7 @@ export function HeroSection() {
                 Secure & Supercharge Your AI Prompts.
               </h1>
               <p className="mt-4 text-lg text-muted-foreground">
-                Meet Prompt Protekt. The all-in-one extension that sanitizes your data and enhances your prompts for
+                Meet Quartz. The all-in-one extension that sanitizes your data and enhances your prompts for
                 better, safer AI conversations.
               </p>
             </div>

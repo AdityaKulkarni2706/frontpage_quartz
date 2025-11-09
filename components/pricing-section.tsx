@@ -51,7 +51,7 @@ export function PricingSection() {
             <div className="mt-8 space-y-4">
               <div className="flex items-start gap-3">
                 <CheckIcon className="mt-1 h-5 w-5 flex-shrink-0 text-primary" />
-                <span className="text-foreground">Everything in Free, plus:</span>
+                <span className="text-foreground">Everything in Free</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckIcon className="mt-1 h-5 w-5 flex-shrink-0 text-primary" />
